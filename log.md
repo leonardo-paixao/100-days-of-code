@@ -13,6 +13,6 @@
 
 **Today's Progress**: Estudos de Flexbox
 
-**Thoughts:**: Realizei alguns estudos com flexbox e tentei implementar um menu lateral deslizante com javascript.
+**Thoughts:** Realizei alguns estudos com flexbox e tentei implementar um menu lateral deslizante com javascript.
 
 **Link to work:** [Flexbox Menu](https://github.com/leonardo-paixao/flex-e-grid-main)
