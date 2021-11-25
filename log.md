@@ -2,9 +2,15 @@
 
 ### Day 1: November 23, 2021
 
+**Today's Progress**: Criei uma página totalmente responsiva
 
-**Today's Progress**: I created a responsive single-page.
+** Thoughts: ** No geral sinto que estou ficando melhor nisso. Comecei a aplicar a metodologia BEM e usar variáveis CSS.
 
-** Thoughts: ** I've had a lot of difficulty with CSS, but overall I feel like I'm getting better at it. I started to apply the BEM bethodology and using CSS variables.
+
+### Day 2: November 24, 2021
+
+**Today's Progress**: Estudos de Flexbox
+
+** Thoughts: **: Realizei alguns estudos com flexbox e tentei implementar um menu lateral deslizante com javascript.
 
 **Link to work:** [Assunivasf Responsive Page](https://github.com/leonardo-paixao/assunivasf-responsive-page)
