@@ -16,3 +16,12 @@
 **Thoughts:** Realizei alguns estudos com flexbox e tentei implementar um menu lateral deslizante com javascript.
 
 **Link to work:** [Flexbox Menu](https://github.com/leonardo-paixao/flex-e-grid-main)
+
+
+### Day 3: November 25, 2021
+
+**Today's Progress**: Estudos de styled-components
+
+**Thoughts:** Realizei alguns estudos com styled-components e implementei alguns componentes.
+
+**Link to work:** [Styleguide](https://github.com/leonardo-paixao/styleguide-css)
